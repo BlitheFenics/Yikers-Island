@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36c63db3fba3d924da97d1c5e32f1105, type: 3}
+  m_Name: Construct additional pylo- I mean atomic towers.
+  m_EditorClassIdentifier: 
+  QuestName: Construct additional pylo- I mean atomic towers.
+  QuestDescription: '- I mean atomic towers.'
+  targetNumber: 1
+  tag: Energy
+  nextQuest: {fileID: 11400000, guid: bd1f61720607da94885781b6d5ed003d, type: 2}
